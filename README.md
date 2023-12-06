@@ -4,7 +4,7 @@ The mod was created to automatically setup the suspension.
 
 ---
 
-This mod differs from STH in the formula and changeable parameters
+This mod differs from [STH](https://github.com/Dranser/STH) in the formula and changeable parameters
 
 **[ENG] How to install?**
 1. Install the latest release version of [KSL](https://github.com/trbflxr/ksl/releases). (The content must be placed in the root folder of the game)
